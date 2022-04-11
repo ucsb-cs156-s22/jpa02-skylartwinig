@@ -1,9 +1,10 @@
 # jpa02-skylartwinig
 
 Repo: https://ucsb-cs156-s22/jpa02-skylartwinig
-
+https://github.com/ucsb-cs156-s22/jpa02-skylartwinig
 
 On Heroku: https://cs156-s22-jpa02-skylartwinig.herokuapp.com
+https://jpa02-skylartwinig.herokuapp.com/
 
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s22/jpa02-skylartwinig
